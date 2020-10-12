@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"cadtool.material_bendings"}],"uuid":"90a2e75b9c9a4c7fab4f5fd6edd022e1"}

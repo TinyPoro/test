@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"cadtool.materials"}],"uuid":"bec0d204d9f14a86a571282504183cd7"}
